@@ -1,0 +1,22 @@
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Mood Colors -->
+    <color name="mood_very_unhappy">#E53935</color> <!-- Red -->
+    <color name="mood_unhappy">#FB8C00</color>      <!-- Orange -->
+    <color name="mood_neutral">#FFD600</color>      <!-- Yellow -->
+    <color name="mood_happy">#43A047</color>       <!-- Green -->
+    <color name="mood_very_happy">#1E88E5</color>  <!-- Blue -->
+    
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#1E1E1E</color>
+</resources>

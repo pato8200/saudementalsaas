@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MentalTrack AI</string>
+    <string name="title_activity_main">MentalTrack AI</string>
+    
+    <!-- Mood Levels -->
+    <string name="mood_very_unhappy">Very Unhappy</string>
+    <string name="mood_unhappy">Unhappy</string>
+    <string name="mood_neutral">Neutral</string>
+    <string name="mood_happy">Happy</string>
+    <string name="mood_very_happy">Very Happy</string>
+    
+    <!-- Activity Labels -->
+    <string name="activity_sleep">Sleep</string>
+    <string name="activity_work">Work</string>
+    <string name="activity_exercise">Exercise</string>
+    <string name="activity_socialize">Socialize</string>
+    <string name="activity_meditate">Meditate</string>
+    <string name="activity_read">Read</string>
+    
+    <!-- UI Labels -->
+    <string name="dashboard_title">Wellness Dashboard</string>
+    <string name="one_tap_entry">Quick Check-in</string>
+    <string name="mood_tracker">Mood Tracker</string>
+    <string name="insights">Insights</string>
+    <string name="ai_mentor">AI Mentor</string>
+    <string name="export_data">Export Data</string>
+    <string name="biometric_lock">Biometric Lock</string>
+    
+    <!-- Buttons -->
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_export_pdf">Export to PDF</string>
+    <string name="btn_export_csv">Export to CSV</string>
+    
+    <!-- AI Mentor Messages -->
+    <string name="ai_welcome_message">Welcome back! How are you feeling today?</string>
+    <string name="ai_insight_positive">Great job maintaining positive habits! Your mood trends show improvement.</string>
+    <string name="ai_insight_correlation">I noticed a correlation: meditation seems to improve your mood on average by 20%.</string>
+</resources>
